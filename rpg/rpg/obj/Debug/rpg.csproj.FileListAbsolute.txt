@@ -1,0 +1,8 @@
+C:\Users\Ja\Desktop\rpg\rpg\obj\Debug\rpg.csproj.AssemblyReference.cache
+C:\Users\Ja\Desktop\rpg\rpg\obj\Debug\rpg.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ja\Desktop\rpg\rpg\obj\Debug\rpg.csproj.CoreCompileInputs.cache
+C:\Users\Ja\Desktop\rpg\rpg\bin\Debug\rpg.exe.config
+C:\Users\Ja\Desktop\rpg\rpg\bin\Debug\rpg.exe
+C:\Users\Ja\Desktop\rpg\rpg\bin\Debug\rpg.pdb
+C:\Users\Ja\Desktop\rpg\rpg\obj\Debug\rpg.exe
+C:\Users\Ja\Desktop\rpg\rpg\obj\Debug\rpg.pdb
